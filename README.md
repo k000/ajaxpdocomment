@@ -1,0 +1,2 @@
+# ajaxpdocomment
+youtubeにあったチュートリアル動画をbootstrap4で書き直してコメントをつけました。
